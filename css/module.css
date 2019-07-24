@@ -1,0 +1,138 @@
+#a p{
+    left: 240px;
+    top:32px;
+}
+
+#b p{
+    left: 240px;
+    top:75px;
+}
+
+#c p{
+    left: 240px;
+    top:60px;
+}
+
+#d p{
+    left: 240px;
+    top:60px;
+}
+
+#e p{
+    left: 120px;
+    top:120px;
+}
+
+#f p{
+    left: 120px;
+    top:120px;
+}
+
+#g p{
+    left: 120px;
+    top:120px;
+}
+
+#h p{
+    left: 120px;
+    top:120px;
+}
+
+#i p{
+    left: 240px;
+    top:32px;
+}
+
+@media all and (min-width: 768px) {
+    #a p{
+        left: 384px;
+        top: 50px;
+    }
+
+    #b p{
+        left: 84px;
+        top: 200px;
+    }
+
+    #c p{
+        left: 150px;
+        top: 100px;
+    }
+
+    #d p{
+        left: 150px;
+        top: 100px;
+    }
+
+    #e p{
+        left: 100px;
+        top: 100px;
+    }
+
+    #f p{
+        left: 100px;
+        top: 100px;
+    }
+
+    #g p{
+        left: 100px;
+        top: 100px;
+    }
+
+    #h p{
+        left: 192px;
+        top: 75px;
+    }
+
+    #i p{
+        left: 192px;
+        top: 75px;
+    }
+}
+
+@media all and (min-width: 960px) {
+    #a p{
+        left: 480px;
+        top: 50px;
+    }
+
+    #b p{
+        left: 100px;
+        top: 300px;
+    }
+
+    #c p{
+        left: 190px;
+        top: 100px;
+    }
+
+    #d p{
+        left: 190px;
+        top: 100px;
+    }
+
+    #e p{
+        left: 95px;
+        top: 125px;
+    }
+
+    #f p{
+        left: 95px;
+        top: 125px;
+    }
+
+    #g p{
+        left: 95px;
+        top: 125px;
+    }
+
+    #h p{
+        left: 95px;
+        top: 125px;
+    }
+
+    #i p{
+        left: 380px;
+        top: 75px;
+    }
+}

@@ -1,0 +1,28 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 480px;
+    margin: 0 auto;
+    color: white;
+}
+
+div{
+    float: left;
+    text-align: auto;
+    position: relative;
+}
+
+div p{
+    position: absolute;
+}
+
+@media all and (min-width:768px){
+    body{
+        max-width:768px;
+    }
+}
+
+@media all and (min-width:960px){
+    body{
+        max-width: 960px;
+    }
+}
